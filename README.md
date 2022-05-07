@@ -2,7 +2,7 @@
 
 ## About
 A game with RPG elements and the generated world, developed using Java and Object-Oriented Programming methods.
-The game should provide an opportunity to walk around the "dungeon", study, collect coins, kill monsters and feel like a hero
+The game provides an opportunity to walk around the "dungeon", study, collect coins, kill monsters and feel like a hero
 
 ## The program structure
 
